@@ -19,6 +19,8 @@ package com.kirangs;
 //}
 /**
  * class Hi with extending Thread
+ * Object of this class is a thread 
+ * we can start it by using object.start() also
  */
 class Hi extends Thread {
 
